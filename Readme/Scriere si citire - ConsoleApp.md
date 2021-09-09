@@ -54,7 +54,7 @@ namespace WorkspaceProjectCode
 }
 
 ```
-*Apoi afisez mesajul "Cartea pe care doriti sa o imprumutati este ... si denumirea cartii introdusa anterior de la tastatura.*</br>
+**Apoi afisez mesajul "Cartea pe care doriti sa o imprumutati este ... si denumirea cartii introdusa anterior de la tastatura.**</br>
 - {0} inseamna primul parametru care urmeaza in lista dupa virgula adica denumirea, iar {1} inseamna al doilea parametru in lista de parametri de dupa virgula, adica autorul. </br>
 
 ```cpp
