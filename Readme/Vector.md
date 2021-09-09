@@ -54,7 +54,7 @@ namespace WorkspaceProjectCode
 ```
 
 3️⃣**PAS 3: DECLARARE VECTOR 2**</br>
-**Vector 2 este identic cu Vector 1 pentru ca si Vector1 si Vector2 sunt 2 vectori alocati in HEAP, chiar daca la unul apare new, iar la celalat nu apare. Totodata sunt initializati cu aceleasi valori.**
+**Vector 2 este identic cu Vector 1 pentru ca si Vector1 si Vector2 sunt 2 vectori alocati in HEAP, chiar daca la unul apare new, iar la celalalt nu apare. Totodata sunt initializati cu aceleasi valori.**
 ```Csharp
 using System;
 using System.Collections.Generic;
