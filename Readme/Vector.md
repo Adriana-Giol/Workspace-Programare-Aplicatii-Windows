@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _Clean_Ciurea_Seminar1_1046
+namespace WorkspaceProjectCode
 {
     class Program
     {
@@ -34,7 +34,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _Clean_Ciurea_Seminar1_1046
+namespace WorkspaceProjectCode
 {
     class Program
     {
@@ -62,7 +62,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _Clean_Ciurea_Seminar1_1046
+namespace WorkspaceProjectCode
 {
     class Program
     {
