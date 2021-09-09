@@ -2,7 +2,8 @@
 
 1️⃣**PAS 1: DECLARARE VECTOR**</br>
 **Vectorul este alocat in HEAP si initializat la declarare automat cu acele 4 valori.**
-```cpp
+
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,7 +28,7 @@ namespace WorkspaceProjectCode
 *Nu mai exista acel n pe care il foloseam in for, ci vectorii sunt subclase ale unei clase de baza care se numeste Array de acolo ei mostenesc o serie de metode si proprietati printre care si `PROPRIETATEA LENGTH`*.</br>
 **❗ ATENTIE ! Diferenta dintre propritatea (cheie) si metoda(cub) este ca proprietatea nu are paranteza ().**</br>
 **Scopul proprietatii LENGTH este sa imi returneze numarul de elemente din structura.**
-```cpp
+```Csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -54,8 +55,7 @@ namespace WorkspaceProjectCode
 
 3️⃣**PAS 3: DECLARARE VECTOR 2**</br>
 **Vector 2 este identic cu Vector 1 pentru ca si Vector1 si Vector2 sunt 2 vectori alocati in HEAP, chiar daca la unul apare new, iar la celalat nu apare. Totodata sunt initializati cu aceleasi valori.**
-```cpp
-```cpp
+```Csharp
 using System;
 using System.Collections.Generic;
 using System.Linq;
