@@ -5,12 +5,6 @@
 - Shallow Copy(Copie de referinte) vs. Deep Copy (Alocarea unui nou spatiu de memorie si copierea valorii din vechiul spatiu in noul spatiu - cu 2 zone distincte de memorie).</br>
 - Pointeri nu folosim deoarece in limbajul C# sunt considerati UNSAFE deoarece ar putea referi niste zone de memorie ale unor alte variabile - Pointeri se includ in blocuri UNSAFE pentru ca sa stie compilatorul sa ii trateze cu atentie sporita.</br>
 
-- Sunt doua forme de matrice utilizate in C#:
-  1. Masive bi-dimensionale - cu n linii si m coloane
-  2. Masive bi-dimensionale - masiv in scara (zig-zag)
-- Clase
-- Vectori / Liste
-
 ## Creare Proiect:
 Windows Forms App (.NET Framework)
 - Program.cs este o clasa care include si implementarea metodei Main (este o functie statica void, care primeste un vector de String-uri ca si parametru).</br>
