@@ -16,33 +16,31 @@
 
 
 ## 📚 Laboratoare:
+### 📙 1. Laborator 1 - Notiuni Introductive 
+[**1. Particularitatile limbajului C#**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Particularitatile%20limbajului%20C%23.md)</br>
+[**2. Scriere si citire pentru aplicatii de tip Consola App**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Scriere%20si%20citire%20-%20ConsoleApp.md)</br>
+[**3. Vector**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Vector.md)</br>
+[**4. Shallow Copy / Deep Copy**]()</br>
+[**5. Matrice bi-dimensionala**]()</br>
 
-### 📗 0. Laborator 0 - Particularitatile limbajului C#.
-[**1. Afisare si citire pentru aplicatii de tip consola**]()</br>
-[**2. Vector**]()</br>
-[**3. Shallow Copy / Deep Copy**]()</br>
-[**4. Matrice bi-dimensionala**]()</br>
+### 📕 2. Laborator 2 - 
+**1. Clasa. Ierarhie de clase**
 
-### 📗 1. Laborator 1 - Notiuni introductive. 
-[**1. Clasa. Ierarhie de clase**]()
+### 📕 3. Laborator 3 - Citire / Scriere din / in fisiere.
+**1. Fisier Text**
+**2. Fisier Binar**
+**3. Fisier XML**
 
-### 📗 2. Laborator 2 - 
+### 📕 4. Laborator 4 - Controale vizuale.
+**1. List View**
+**2. Tree View**
+**3. Data Grid View**
 
-### 📗 3. Laborator 3 - Citire / Scriere din / in fisiere.
-[**1. Fisier Text**]()</br>
-[**2. Fisier Binar**]()</br>
-[**3. Fisier XML**]()</br>
+### 📕 5. Laborator 5 - Validari de Date.
+**1. Error Provider**
+**2. Eveniment Item Check**
 
-### 📗 4. Laborator 4 - Controale vizuale.
-[**1. List View**]()</br>
-[**2. Tree View**]()</br>
-[**3. Data Grid View**]()</br>
-
-### 📗 5. Laborator 5 - Validari de Date.
-[**1. Error Provider**]()</br>
-[**2. Eveniment Item Check**]()</br>
-
-### 📗 6. Laborator 6 - Grafic.
-### 📗 7. Laborator 7 - Acceleratori si Clipboard.
-### 📗 8. Laborator 8 - Print si Print Preview.
-### 📗 9. Laborator 9 - Crystal Reports.
+### 📕 6. Laborator 6 - Grafic.
+### 📕 7. Laborator 7 - Acceleratori si Clipboard.
+### 📕 8. Laborator 8 - Print si Print Preview.
+### 📕 9. Laborator 9 - Crystal Reports.
