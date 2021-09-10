@@ -1,4 +1,4 @@
-|Specificatii| Carte| Carte Scolara|Biblioteca|Interfata |
+|Specificatii| [Carte](https://github.com/Adriana-Giol/Workspace-Programare-Aplicatii-Windows/blob/main/Readme/1.%20ClasaCarte.md)| Carte Scolara|Biblioteca|Interfata |
 |------------|-------------------|--------------|----------|-----------|
 |Tipologie clasa|**Clasa abstracta - de baza**|**Clasa derivata-concreta**|**Colectie**|**Interfata**|
 |🔴Definire atribute|string, List<String>, int, bool, DateTime, int[], float, char|||
