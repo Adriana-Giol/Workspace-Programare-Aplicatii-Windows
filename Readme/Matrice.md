@@ -1,4 +1,4 @@
-# 🎯 V. MASIVE BI-DIMENSIONALE </br>
+# 5. MASIVE BI-DIMENSIONALE </br>
 **Sunt doua forme de masive bi-dimensionala utilizate in C#:**</br>
     A. Masive bi-dimensionale - cu n linii si m coloane</br>
     B. Masive bi-dimensionale - masiv in scara (zig-zag)</br>
