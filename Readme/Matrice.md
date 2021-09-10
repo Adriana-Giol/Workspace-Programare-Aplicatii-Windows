@@ -74,7 +74,7 @@ namespace
             
 
 ## 🅱️ Varianta B - MASIV IN ZIG ZAG (SCARA)
-1️⃣**PAS 1: DECLARARE masiv in scara**</br>
+1️⃣**PAS 1: DECLARARE masiv in scara (zig-zag)**</br>
 
  ```Csharp
 using System;
