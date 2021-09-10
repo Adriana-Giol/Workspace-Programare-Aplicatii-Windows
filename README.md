@@ -1,4 +1,7 @@
 # Programarea Aplicatiilor Windows
+
+## 🛠️ Instrumente folosite:
+
 ## 💻 Tutoriale:
 [**✔️1. Tutoring PAW - Partea I (varianta Profesor)**](https://www.youtube.com/watch?v=r_8Rx4GGmV8&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3&t=1401s)</br>
 [**✔️2. Tutoring PAW - Partea II (varianta Traseu)**](https://www.youtube.com/watch?v=HjatpPQ2r-E&list=PLFDJb642lauV20Ax5j084OQnqsLPRRdur&index=3)</br>
@@ -16,25 +19,25 @@
 
 
 ## 📚 Laboratoare:
-### 📙 1. Laborator 1 - Notiuni Introductive 
+### 📗 1. Laborator 1 - Notiuni Introductive 
 [**✔️1. Particularitatile limbajului C#**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Particularitatile%20limbajului%20C%23.md)</br>
 [**✔️2. Scriere si citire pentru aplicatii de tip Consola App**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Scriere%20si%20citire%20-%20ConsoleApp.md)</br>
 [**✔️3. Vector**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Vector.md)</br>
 [**✔️4. Shallow Copy / Deep Copy**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/ShallowCopy.DeepCopy.md)</br>
 [**✔️5. Matrice bi-dimensionala**](https://github.com/Adriana-Giol/Workspace-Programarea-Aplicatiilor-Windows/blob/main/Readme/Matrice.md)</br>
 
-### 📕 2. Laborator 2 - 
-**1. Clasa. Ierarhie de clase**
+### 📙 2. Laborator 2 - Clase
+[**1. Clasa. Ierarhie de clase**](https://github.com/Adriana-Giol/Workspace-Programare-Aplicatii-Windows/blob/main/Readme/Clasa.Ierarhia%20de%20clase.md)</br>
 
-### 📕 3. Laborator 3 - Citire / Scriere din / in fisiere.
-**1. Fisier Text**
-**2. Fisier Binar**
-**3. Fisier XML**
-
-### 📕 4. Laborator 4 - Controale vizuale.
+### 📕 3. Laborator 3 - Controale vizuale.
 **1. List View**
 **2. Tree View**
 **3. Data Grid View**
+
+### 📕 4. Laborator 4 - Citire / Scriere din / in fisiere.
+**1. Fisier Text**
+**2. Fisier Binar**
+**3. Fisier XML**
 
 ### 📕 5. Laborator 5 - Validari de Date.
 **1. Error Provider**
