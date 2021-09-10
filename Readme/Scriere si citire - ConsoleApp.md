@@ -28,8 +28,8 @@ namespace WorkspaceProjectCode
 
 
 2️⃣**PAS 2: CITIRE: Citire de la tastatura un nume Cin = Console.ReadLine():**</br>
-**Declaram  un string nume pe care il preiau cu metoda ReadLine()**</br>
-Intr-un limbaj ca C# sirurile de caractere se initializeaza cu "string denumire" fara sa mai alocam spatiu, deoarece se aloca spatiu automat in HEAP si aceea denumire va fi defapt o referinta catre aceea adresa din HEAP care va contine denumirea pe care o citesc eu de la tastatura. </br>
+**Declaram  un string denumire pe care il preiau cu metoda ReadLine()**</br>
+Intr-un limbaj ca C# sirurile de caractere se initializeaza cu "string denumire" fara sa mai alocam spatiu, deoarece se aloca spatiu automat in HEAP si aceea denumire va fi defapt o referinta catre aceea adresa din HEAP care va contine denumirea pe care o citesc de la tastatura. </br>
 
 ```Csharp
 using System;
