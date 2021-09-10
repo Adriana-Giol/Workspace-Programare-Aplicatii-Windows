@@ -45,7 +45,7 @@ namespace WorkspaceProjectCode
             int[] vector1 = { 1, 2, 3, 4 };
             
             //2. Traversare si afisare vector
-              Console.WriteLine("Vector 1: ");
+             Console.WriteLine("Vector 1: ");
 
               for (int i = 0; i < vector1.Length; i++)
                   { 
