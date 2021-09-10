@@ -128,9 +128,9 @@ namespace
                
            //2. Copiere element cu element di vector2 in vector4
              Console.WriteLine("Vector 4 inainte de modificare: ");
-               for (int i = 0; i < v2.Length; i++)
+               for (int i = 0; i < vector2.Length; i++)
                     {
-                      v4[i] = v2[i];
+                      vector4[i] = vector2[i];
                     }
          }
      }
@@ -151,7 +151,7 @@ namespace
     {
         static void Main(string[] args)
         {
-         //Deep Copy - Vsrianta 1 - Clasica
+         //Deep Copy - Varianta 1 - Clasica
             //1. Declarare vector4 si alocarea spatiului de memorie
                int[] vector4 = new int[vector2.Length];
                
@@ -175,8 +175,8 @@ namespace
 ```
 
 ## 🅱️ Varianta B - Metoda Clone
-1️⃣**PAS 1: Declarare vector V4 si alocare spatiu.**</br>
-**Metoda Clone este mostenita automat din clasa Array care implementeaza interfata IClonable - si returneaza un object.**</br>
+1️⃣**PAS 1: Declarare vector vector4 si alocare spatiu.**</br>
+**Metoda Clone este mostenita automat din clasa Array care implementeaza interfata ICloneable - si returneaza un object.**</br>
 **Aceasta linie face tot ce am scris in Varianta A de mai sus.**</br>
 
 ```Csharp
@@ -201,7 +201,7 @@ namespace
 ```
 
 
-2️⃣**PAS 2: Daca modificam valoarea lui V2 si afisam din nou , V5 ar trebui sa fie cu valoarea 20, iar V2 cu valoarea 100.**
+2️⃣**PAS 2: Daca modificam valoarea lui vector2 si il afisam din nou , vector5 ar trebui sa fie cu valoarea 20, iar vector2 cu valoarea 100.**
 ```Csharp
 using System;
 using System.Collections.Generic;
